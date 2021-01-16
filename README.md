@@ -2,4 +2,4 @@
 
 ReactJS Project (using JSX, CSS, components, props and map data structure)
 
-This is a personal ReactJS project by M. Uzair Afzal
+In this project, I display 4 of my favourite Linux-based operating systems
