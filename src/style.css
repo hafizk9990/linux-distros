@@ -4,7 +4,7 @@
 }
 
 .single-card {
-    height: 30%;
+    height: 35%;
     margin: 6%;
     transition: all 0.4s cubic-bezier(0.175, 0.889, 0, 1);
     background-color: #fff;
