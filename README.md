@@ -1,5 +1,5 @@
-# React-Project
+# My Favourite Linux Distros
 
-ReactJS Project (using JSX, CSS, components, props and map data structure)
+After learning some basics of ReactJS, I applied them practically to create a small single-page application. This ReactJS app shows my understanding of React's CSS, JSX, components, props and higher-order array methods
 
-In this project, I display 4 of my favourite Linux-based operating systems
+To use this application, go here: https://uzair9.github.io/React-Project/
